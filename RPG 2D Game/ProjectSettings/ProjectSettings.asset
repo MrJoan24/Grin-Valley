@@ -617,6 +617,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -630,10 +631,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 9ef48686-8079-4b79-aaf9-01cf690b9c5d
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: RPG 2D Game
+  organizationId: ardekanihutorx
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
